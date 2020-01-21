@@ -9,3 +9,6 @@ Singularity ubuntu.img:~> apt-get install my_apps
 Singularity ubuntu.img:~> exit
 root# singularity build ubuntu.img ubuntu_sandbox_dir
 ```
+
+# Mirroring public to private repo
+https://stackoverflow.com/questions/10065526/github-how-to-make-a-fork-of-public-repository-private
